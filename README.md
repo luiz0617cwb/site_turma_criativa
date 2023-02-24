@@ -1,1 +1,1 @@
-# site_turma_criativa
+# site-turma-criativa
